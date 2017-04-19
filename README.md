@@ -4,6 +4,7 @@ Nginx shortcuts
 ## Requirements
 * Centos/RHEL
 * Nginx
+* Ruby
 
 ## Install
 1. Checkout this repo somewhere sensible e.g. your home folder
