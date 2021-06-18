@@ -1,16 +1,8 @@
 # ngx
-Nginx shortcuts
+A command line tool for managing nginx
 
 ## Requirements
-* Centos/RHEL
-* Nginx
-* Ruby
+-- This is a work in progress
 
 ## Install
-1. Checkout this repo somewhere sensible e.g. your home folder
-2. Run the installer: `sh install.sh`
-3. Check it's installed by running the `ngx` command, if successfull you'll get some output explaining the available arguments
-
-### What is installed
-* /etc/nginx/**vhost-example.conf**
-* **ngx** tool in **~/bin** or **/usr/local/bin** or **/usr/local/sbin**
+`go get github.com/aurer/ngx`
